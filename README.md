@@ -10,4 +10,4 @@ Generation Time: Dec 01, 2022 at 05:19 PM
 Server version: 10.4.25-MariaDB
 PHP Version: 7.4.30
 
-Video explanation: https://www.youtube.com/watch?v=XX13cJXpX1A
+**Watch the Video on YouTube:** [Video explanation](https://www.youtube.com/watch?v=buv03KDzbFI)
