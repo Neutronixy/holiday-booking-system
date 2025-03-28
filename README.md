@@ -1,5 +1,5 @@
 # Holiday Booking System
-Design of a database for the package holiday booking system
+A showcase of a database used for holiday package reservations, built to resemble services like Jet2Holidays.
 
 phpMyAdmin SQL Dump
 version 5.2.0
